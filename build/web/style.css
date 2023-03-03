@@ -1,0 +1,32 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 16, 2021, 2:34:05 AM
+    Author     : Mirindi
+*/
+
+.txt{
+    width:25%;
+    height:25px;
+    border: 2px solid royalblue;
+    border-radius: 8px;
+    font-size: 15px;
+}
+h1{
+     font-family: "Times New Roman", Times, serif;
+}
+.savebtn{
+  background-color: #008CBA; 
+  border: none;
+  color: white;
+  padding: 10px 22px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
